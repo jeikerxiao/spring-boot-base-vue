@@ -62,3 +62,7 @@ typings/
 
 # dist file
 dist/
+
+# idea
+.idea/
+.xml
